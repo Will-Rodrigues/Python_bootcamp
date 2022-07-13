@@ -20,7 +20,10 @@ lesson 17 - Quiz Brain project (using OOP)
 lesson 18 - Turtle Graphics, Tuples and Importing Modules
 lesson 19 - More Turtle Graphics, Event Listeners, State and Multiple Instances
 lesson 20 - Snake Game part 1
-lesson 20 - Snake Game part 2 (Inheritance and slicing)
+lesson 21 - Snake Game part 2 (Inheritance and slicing) (Modified in lesson 24)
+lesson 22 - Pong game
+lesson 23 - Turtle crossing game (Mileston project 2)
+lesson 24 - Working with Local Files and directories
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -44,4 +47,7 @@ lição 17 - Projeto QuizBrain (usando orientação a objetos)
 lição 18 - Turtle Graphics, Tuples and importação de módulos
 lição 19 - Mais sobre Turtle Graphics, Event Listeners, State and multiplas instâncias
 lição 20 - Jogo da Cobrinha parte 1
-lição 21 - Jogo da Cobrinha parte 2 (Herança de classe and slicing)
+lição 21 - Jogo da Cobrinha parte 2 (Herança de classe and slicing) (Modificado na lição 24)
+lição 22 - Jogo Pong
+lição 23 - Jogo de atravesar a rua (Mileston project 2)
+lição 24 - Trabalhando com arquivos locais e pastas

@@ -19,6 +19,12 @@ class Snake:
         for position in STARTING_POSITION:
             self.new_part(position)
 
+    def reset(self):
+        for _ in self.snake:
+            _.goto(1000, 1000)
+        self.snake.clear()
+        self.create_snake()
+
     def extend_snake(self):
         self.new_part(self.snake[-1].position())
 
