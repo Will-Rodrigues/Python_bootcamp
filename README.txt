@@ -24,6 +24,9 @@ lesson 21 - Snake Game part 2 (Inheritance and slicing) (Modified in lesson 24)
 lesson 22 - Pong game
 lesson 23 - Turtle crossing game (Mileston project 2)
 lesson 24 - Working with Local Files and directories
+lesson 25 - U.S Game (using pandas with csv)
+lesson 26 - List and dictionary Comprehensions
+lesson 27 - GUI with Tkinter and Function Arguments
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -51,3 +54,6 @@ lição 21 - Jogo da Cobrinha parte 2 (Herança de classe and slicing) (Modifica
 lição 22 - Jogo Pong
 lição 23 - Jogo de atravesar a rua (Mileston project 2)
 lição 24 - Trabalhando com arquivos locais e pastas
+lição 25 - Jogo de advinhar os estados (usando pandas com arquivo csv)
+lição 26 - List and dictionary Comprehensions
+lição 27 - GUI com Tkinter e argumentos de função
