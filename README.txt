@@ -27,6 +27,8 @@ lesson 24 - Working with Local Files and directories
 lesson 25 - U.S Game (using pandas with csv)
 lesson 26 - List and dictionary Comprehensions
 lesson 27 - GUI with Tkinter and Function Arguments
+lesson 28 - Pomodoro App with Tkinter
+lesson 29 - Password Manager
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -57,3 +59,5 @@ lição 24 - Trabalhando com arquivos locais e pastas
 lição 25 - Jogo de advinhar os estados (usando pandas com arquivo csv)
 lição 26 - List and dictionary Comprehensions
 lição 27 - GUI com Tkinter e argumentos de função
+lição 28 - Pomodoro App com Tkinter
+lição 29 - Gerenciador de senhas
