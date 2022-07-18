@@ -29,6 +29,11 @@ lesson 26 - List and dictionary Comprehensions
 lesson 27 - GUI with Tkinter and Function Arguments
 lesson 28 - Pomodoro App with Tkinter
 lesson 29 - Password Manager
+lesson 30 - Errors, Exceptions and saving json Data
+lesson 31 - Flash Card Program
+lesson 32 - Email SMTP and datetime module
+lesson 33 - API
+lesson 34 - Trivia API and Quizzler App
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -61,3 +66,8 @@ lição 26 - List and dictionary Comprehensions
 lição 27 - GUI com Tkinter e argumentos de função
 lição 28 - Pomodoro App com Tkinter
 lição 29 - Gerenciador de senhas
+lição 30 - Erros, Exceções e salvando informções em json
+lição 31 - Programa de Flash Card
+lição 32 - Email STMP e módulo datetime
+lição 33 - API
+lição 34 - Trivia API e Quizzler App

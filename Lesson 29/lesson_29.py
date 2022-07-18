@@ -28,7 +28,7 @@ def save():
             title="Oooops", message="Please, dont't leave any fields empty")
     else:
         if messagebox.askokcancel(title=f"{website}", message=f"These are the details entered:\nEmail:{username}\nPassword: {password}\nIt's ok to save it?"):
-            with open(f"lesson 29/passwords", 'a') as data:
+            with open(f"lesson 29/passwords.txt", 'a') as data:
                 data.write(f"{website} / {username} / {password}\n")
             website_entry.delete(0, END)
             username_entry.delete(0, END)
