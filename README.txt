@@ -34,6 +34,11 @@ lesson 31 - Flash Card Program
 lesson 32 - Email SMTP and datetime module
 lesson 33 - API
 lesson 34 - Trivia API and Quizzler App
+lesson 35 - API Keys, Authentication, Environment Variables and Sending SMS
+lesson 36 - Stock News Monitoring Project
+lesson 37 - Advanced Authentication and POST / PUT / DELETE Requests
+lesson 38 - Exercise Tracking with Google Sheets
+lesson 39 - Cheap Flight Finder
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -70,4 +75,9 @@ lição 30 - Erros, Exceções e salvando informções em json
 lição 31 - Programa de Flash Card
 lição 32 - Email STMP e módulo datetime
 lição 33 - API
-lição 34 - Trivia API e Quizzler App
+lição 34 - Trivia API e Quizzler 
+lição 35 - API Keys, Autenticação, Variáveis de ambiente e envio de SMS
+lição 36 - Projeto de Monitoração de ações de mercado
+lição 37 - Autenticação avançada e requisições POST/PUT/DELETE
+lição 38 - Exercise Tracking com Google Sheets
+lição 39 - APP para achar voo mais barato
