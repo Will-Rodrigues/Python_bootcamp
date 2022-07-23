@@ -38,7 +38,11 @@ lesson 35 - API Keys, Authentication, Environment Variables and Sending SMS
 lesson 36 - Stock News Monitoring Project
 lesson 37 - Advanced Authentication and POST / PUT / DELETE Requests
 lesson 38 - Exercise Tracking with Google Sheets
-lesson 39 - Cheap Flight Finder
+lesson 39&40 - Cheap Flight Finder
+lesson 41 - basic HTML
+lesson 42 - basic HTML part 2
+lesson 43 - basic CSS
+lesson 44 - More of CSS
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -80,4 +84,8 @@ lição 35 - API Keys, Autenticação, Variáveis de ambiente e envio de SMS
 lição 36 - Projeto de Monitoração de ações de mercado
 lição 37 - Autenticação avançada e requisições POST/PUT/DELETE
 lição 38 - Exercise Tracking com Google Sheets
-lição 39 - APP para achar voo mais barato
+lição 39&40 - APP para achar voo mais barato
+lição 41 - HTML básico
+lição 42 - HTML básico parte 2
+lição 43 - Introdução ao CSS
+lição 44 - Mais sobre CSS
