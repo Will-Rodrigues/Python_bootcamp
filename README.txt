@@ -46,6 +46,11 @@ lesson 44 - More of CSS
 lesson 45 - Scraping Web data using BeatiulSoup
 lesson 46 - Musical Time Machine Project
 lesson 47 - Amazon Price Tracker Project
+lesson 48 - Bot for the cookie game, with Selenium
+lesson 51 - Twitter bot
+lesson 52 - Instagram bot
+lesson 53 - Bot for collect price of rents in Zillow
+lesson 54 - Basic of flask and decorators (not applicated yet)
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -95,3 +100,8 @@ lição 44 - Mais sobre CSS
 lição 45 - Extração de dados na Web usando BeatiulSoup
 lição 46 - Projeto Máquina do tempo musical
 lição 47 - Projeto de comparador de preços na amazon
+lição 48 - Bot para o jogo do biscoito, com Selenium
+lição 51 - Bot para Twitter
+lição 52 - Bot para Instagram
+lição 53 - Bot para extrair dados de preços de imóveis no site Zillow
+lição 54 - Basico de flask e decorators (não aplicado no código)
