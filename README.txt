@@ -43,6 +43,9 @@ lesson 41 - basic HTML
 lesson 42 - basic HTML part 2
 lesson 43 - basic CSS
 lesson 44 - More of CSS
+lesson 45 - Scraping Web data using BeatiulSoup
+lesson 46 - Musical Time Machine Project
+lesson 47 - Amazon Price Tracker Project
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -89,3 +92,6 @@ lição 41 - HTML básico
 lição 42 - HTML básico parte 2
 lição 43 - Introdução ao CSS
 lição 44 - Mais sobre CSS
+lição 45 - Extração de dados na Web usando BeatiulSoup
+lição 46 - Projeto Máquina do tempo musical
+lição 47 - Projeto de comparador de preços na amazon
