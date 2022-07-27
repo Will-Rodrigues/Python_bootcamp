@@ -51,6 +51,9 @@ lesson 51 - Twitter bot
 lesson 52 - Instagram bot
 lesson 53 - Bot for collect price of rents in Zillow
 lesson 54 - Basic of flask and decorators (not applicated yet)
+lesson 55 - Advanced Decorators, Rendering HTML, Parsing URLs and Flask Debugging
+lesson 56 - Static files, HTML/CSS File Rendering and a personal site
+lesson 57 - URL Building and Templating with Jinja
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -105,3 +108,6 @@ lição 51 - Bot para Twitter
 lição 52 - Bot para Instagram
 lição 53 - Bot para extrair dados de preços de imóveis no site Zillow
 lição 54 - Basico de flask e decorators (não aplicado no código)
+lição 55 - Decorators avançado, Renderização HTML, Parsing URLs e Flask Debugging
+lição 56 - Arquivos estáticos, Renderização de arquivos HTML/CSS e um site pessoal
+lição 57 - Criação de URLs e templating com Jinja
