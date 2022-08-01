@@ -56,6 +56,7 @@ lesson 56 - Static files, HTML/CSS File Rendering and a personal site
 lesson 57 - URL Building and Templating with Jinja
 lesson 58 - Bootstrap
 lesson 59 - Blog Project
+lesson 60 - Using forms validaton with Flask
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -115,3 +116,4 @@ lição 56 - Arquivos estáticos, Renderização de arquivos HTML/CSS e um site 
 lição 57 - Criação de URLs e templating com Jinja
 lição 58 - Bootstrap
 lição 59 - Projeto - Blog
+lição 60 - Validação de formulários usando Flask
