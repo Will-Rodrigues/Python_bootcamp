@@ -57,6 +57,7 @@ lesson 57 - URL Building and Templating with Jinja
 lesson 58 - Bootstrap
 lesson 59 - Blog Project
 lesson 60 - Using forms validaton with Flask
+lesson 61 - Advanced Forms with WTForms
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -117,3 +118,4 @@ lição 57 - Criação de URLs e templating com Jinja
 lição 58 - Bootstrap
 lição 59 - Projeto - Blog
 lição 60 - Validação de formulários usando Flask
+lição 61 - Formulários Avançados usando WTForms
