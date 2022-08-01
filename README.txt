@@ -54,6 +54,8 @@ lesson 54 - Basic of flask and decorators (not applicated yet)
 lesson 55 - Advanced Decorators, Rendering HTML, Parsing URLs and Flask Debugging
 lesson 56 - Static files, HTML/CSS File Rendering and a personal site
 lesson 57 - URL Building and Templating with Jinja
+lesson 58 - Bootstrap
+lesson 59 - Blog Project
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -111,3 +113,5 @@ lição 54 - Basico de flask e decorators (não aplicado no código)
 lição 55 - Decorators avançado, Renderização HTML, Parsing URLs e Flask Debugging
 lição 56 - Arquivos estáticos, Renderização de arquivos HTML/CSS e um site pessoal
 lição 57 - Criação de URLs e templating com Jinja
+lição 58 - Bootstrap
+lição 59 - Projeto - Blog
