@@ -1,0 +1,27 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}Add A New Cafe{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+
+      <h1>Add a new cafe into the database</h1>
+
+      <form method="POST" action="/add" novalidate>
+        {{ form.csrf_token }}
+        {{ form.cafe.label }} {{ form.cafe(size=20) }} <br>
+        {{ form.location.label }} {{ form.location(size=40) }} <br>
+        {{ form.open.label }} {{ form.open(size=20) }} <br>
+        {{ form.close.label }} {{ form.close(size=20) }}
+        <input type="submit" value="Go">
+    </form>
+
+	  <p class="space-above"><a href="{{ url_for('cafes') }}">See all cafes</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
