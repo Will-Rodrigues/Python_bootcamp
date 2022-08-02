@@ -60,6 +60,7 @@ lesson 60 - Using forms validaton with Flask
 lesson 61 - Advanced Forms with WTForms
 lesson 62 - More of WTforms and jinja
 lesson 63 - SQLite database
+lesson 64 - Top 10 movies Project
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -123,3 +124,4 @@ lição 60 - Validação de formulários usando Flask
 lição 61 - Formulários Avançados usando WTForms
 lição 62 - Mais sobre WTforms e Jinja
 lição 63 - SQLite database
+lição 64 - Projeto - Top 10 filmes
