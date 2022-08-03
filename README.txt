@@ -61,6 +61,8 @@ lesson 61 - Advanced Forms with WTForms
 lesson 62 - More of WTforms and jinja
 lesson 63 - SQLite database
 lesson 64 - Top 10 movies Project
+lesson 65 - Webdesign introduction
+lesson 66 - Build Your Own REST API Service (doc url: https://documenter.getpostman.com/view/21242044/Uzs44Rvk)
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -125,3 +127,5 @@ lição 61 - Formulários Avançados usando WTForms
 lição 62 - Mais sobre WTforms e Jinja
 lição 63 - SQLite database
 lição 64 - Projeto - Top 10 filmes
+lição 65 - Introdução ao webdesign
+lição 66 - Construção do próprio serviço REST API (doc url: https://documenter.getpostman.com/view/21242044/Uzs44Rvk)
