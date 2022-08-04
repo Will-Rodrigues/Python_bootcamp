@@ -64,6 +64,7 @@ lesson 64 - Top 10 movies Project
 lesson 65 - Webdesign introduction
 lesson 66 - Build Your Own REST API Service (doc url: https://documenter.getpostman.com/view/21242044/Uzs44Rvk)
 lesson 67 - Blog project part 2
+lesson 68 - Login and register users with Authentication
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -131,3 +132,4 @@ lição 64 - Projeto - Top 10 filmes
 lição 65 - Introdução ao webdesign
 lição 66 - Construção do próprio serviço REST API (doc url: https://documenter.getpostman.com/view/21242044/Uzs44Rvk)
 lição 67 - Projeto - Blog (parte 2)
+lição 68 - Permitir e registrar usuário com Autenticação
