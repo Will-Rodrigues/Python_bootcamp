@@ -66,6 +66,8 @@ lesson 66 - Build Your Own REST API Service (doc url: https://documenter.getpost
 lesson 67 - Blog project part 2
 lesson 68 - Login and register users with Authentication
 lesson 69 - Blog project part 3
+lesson 70 - Blog project deploy in Heroku
+lesson 71 - Using Coolab Notebook with pandas
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -135,3 +137,5 @@ lição 66 - Construção do próprio serviço REST API (doc url: https://docume
 lição 67 - Projeto - Blog (parte 2)
 lição 68 - Permitir e registrar usuário com Autenticação
 lição 69 - Projeto - Blog (parte 3)
+lição 70 - Deploy do blog no Heroku
+lição 71 - Usando Coolab Notebook com pandas
