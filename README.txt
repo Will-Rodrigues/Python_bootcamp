@@ -70,6 +70,7 @@ lesson 70 - Blog project deploy in Heroku
 lesson 71 - Using Coolab Notebook with pandas
 lesson 72 - Matplotlib
 lesson 73 - Advanced use of pandas with matplotlib
+lesson 74 - Crossdata with matplotlib
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -143,3 +144,4 @@ lição 70 - Deploy do blog no Heroku
 lição 71 - Usando Coolab Notebook com pandas
 lição 72 - Usando Matplotlib
 lição 73 - Avançando com uso de pandas e matplotlib
+lição 74 - Trabalhando com dados cruzados com matplotlib
