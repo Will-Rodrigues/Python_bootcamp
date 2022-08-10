@@ -72,6 +72,7 @@ lesson 72 - Matplotlib
 lesson 73 - Advanced use of pandas with matplotlib
 lesson 74 - Crossdata with matplotlib
 lesson 75 - plotly and more of data science
+lesson 76 - Numpy
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -147,3 +148,4 @@ lição 72 - Usando Matplotlib
 lição 73 - Avançando com uso de pandas e matplotlib
 lição 74 - Trabalhando com dados cruzados com matplotlib
 lição 75 - plotly e mais de data science
+lição 76 - Numpy
