@@ -74,6 +74,7 @@ lesson 74 - Crossdata with matplotlib
 lesson 75 - plotly and more of data science
 lesson 76 - Numpy
 lesson 77 - Seaborn and Scikit
+lesson 78 - More of data science
 
 PT-BR
 Este é um repositório para um bootcamp python ao qual participei. Aqui segue a lista do que eu vi em cada lição.
@@ -151,3 +152,4 @@ lição 74 - Trabalhando com dados cruzados com matplotlib
 lição 75 - plotly e mais de data science
 lição 76 - Numpy
 lição 77 - Seaborn e Scikit
+lição 79 - Mais sobre data science
